@@ -9,7 +9,9 @@
 
 .banner{
     padding: 100px 80px 100px 80px;
+    margin: 24px;
     background-color: #C6E4D6;
+    border-radius: 24px;
     display: flex;
     justify-content: space-between;
     /* margin: 64px; */
@@ -96,4 +98,41 @@
     border-radius: 8px;
     width: 122px;
     height: 41px;
+}
+
+.pic{
+    position: top-left ;
+    border-radius: 50%;
+}
+.con{
+    position:top-rigth;
+}
+.new-sec{
+    display: flex;
+    margin-top: 24px;
+    padding: 48px;
+    gap: 32px;
+    padding: 48px;
+    background-color:whitesmoke;
+    border-radius: 24px;
+    
+}
+.n{ color: white;
+    background-color: #006A50;
+    size: 18px;
+    border: none;
+    border-radius: 8px;
+    background: #006A5;
+    width: 139px;
+    height: 48px;
+}
+
+.new-sec2{
+    display: flex;
+    padding: 48px;
+    gap: 32px;
+    padding: 48px;
+    background-color:whitesmoke;
+    border-radius: 24px;
+    margin-top: 24px;
 }
