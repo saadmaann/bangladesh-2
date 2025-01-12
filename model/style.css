@@ -1,5 +1,48 @@
 
 
-nav{
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.banner{
+    padding: 100px 80px 100px 80px;
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: space-between;
+    /* margin: 64px; */
+   max-width: 1280px;
+    max-height: 560px;
+    
+    
   
+}
+.banner-content{
+    width: 622px;
+    height: 326px;
+    
+    
+}
+.button{
+    color: #FFFFFF;
+    text-size-adjust: 100%;
+    background-color: #006A50;
+    padding: 17px 34px 17px 34px;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+}
+#j{
+    font-size: 56px;
+    color: #0E0E0E 50%;
+}
+.class{
+    color: #0E0E0E;
+    font-size: 24px;
+}
+.dp{
+    width: 474px;
+    height: 400px;
 }
